@@ -7,4 +7,5 @@ You can play the game [here](https://tomcat45.itch.io/boot).
 # Contributors
 
 Programming - [Chris Mohri](https://github.com/chris-mohri) and [Evan Jackson](https://github.com/ejackson13)
+
 Art and Animation - [Thomas Catalano]()
